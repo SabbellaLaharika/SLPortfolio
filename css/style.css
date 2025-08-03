@@ -942,7 +942,7 @@ h3.my-profession
 .profile-card-front .profile-logo {
     width: 80px;
     height: 80px;
-    border-radius: 20%;
+    border-radius: 5%;
     margin-bottom: 15px;
 }
 
