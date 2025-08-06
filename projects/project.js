@@ -1,10 +1,10 @@
 const Projects = [
     {
-        name : "Clone of Agoda.com",
-        about : "Agoda is a fastest growing online travel booking platform. It also provides budget hotels, apartments, homes, and villas to suit all budgets and travel occasions.",
-        img : "https://miro.medium.com/max/1400/1*V3SfEMO4g2oOyi9NnEXjDQ.png",
-        gitrepo : "https://github.com/db648/Agoda-clone",
-        blog : "https://medium.com/@vdbhavani.648/agoda-clone-eb28c930815e",
+        name : "AI-Driven Portfolio Creator",
+        about : "AI-driven platform for generating diverse digital portfolios, utilizing the artificial intelligence for content curation.",
+        img : "",
+        gitrepo : "",
+        blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
@@ -20,8 +20,8 @@ const Projects = [
         project_type : "Team Project"
     },
     {
-        name : "Clone of specsmakers.in",
-        about : "Specsmakers offers a wide variety of stylish eyewear with high quality of Eyeglasses, Eyeglass Frames, Computer Glasses, Contact Lenses and Sunglasses Online at specsmakers.",
+        name : "ML WebDisease Cancer Prediction with Precision",
+        about : "ML web application for disease and cancer prediction, to encompass data processing and model deployment.",
         img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83waNZy94ppQK-oRhV70lco-r4kcA8rZ13Q&usqp=CAU",
         gitrepo : "https://github.com/db648/Specs-Makers-clone",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
@@ -37,8 +37,8 @@ const Projects = [
         project_type : "Team Project"
     },
     {
-        name : "Clone of shop4reebok.com",
-        about : "An E-commerce website that sells fashionable, branded clothing & footwear and accessories for women, men & kids online at shop4reebok.",
+        name : "Hospital Pre-Booking Web Application",
+        about : "Web application for hospital pre-bookings, to streamline the appointments and administrative tasks.",
         img : "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
         gitrepo : "https://github.com/db648/reebok",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
@@ -54,8 +54,8 @@ const Projects = [
 
     },
     {
-        name : "Clone of MyShopping.com",
-        about : "An E-commerce website that sells fashionable, branded clothing for women, men & kids online at MyShopping.com.",
+        name : "Zoom-like App Emotion Detection of Students",
+        about : "Video conferencing application with real-time student emotion detection using advanced computer vision and machine learning.",
         img : "./homepage-shopping.png",
         gitrepo : "https://github.com/db648/ecommerce-react-project",
         blog : "",
@@ -77,8 +77,44 @@ const Projects = [
 
     },
     {
-        name : "Weather-Map Web Application",
-        about : "A Weather search web application, where user will get location based weather report. Here user will get all info related to a particular city with daily report as well as weekly forecast.",
+        name : "Smart Stick",
+        about : "Smart Stick for enhancing independence and safety for visually impaired users through real-time obstacle detection, navigation assistance, and environmental awareness.",
+        img : "./weather.png",
+        gitrepo : "https://github.com/db648/weatherapp",
+        blog : "",
+        tech_stack : "HTML | CSS | JAVASCRIPT | API's",
+        tech_stackicons : [
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`
+            
+        ],
+        project_link : "https://weatherapp-ten-kappa.vercel.app/",
+        project_type : "Individual Project"
+
+    },
+    {
+        name : "Data Structures Visualizer & Quiz System",
+        about : "An interactive application for visualizing sorting and search algorithms, stacks, queues, linked lists, trees and graphs with animated effects and also included a quiz.",
+        img : "./weather.png",
+        gitrepo : "https://github.com/db648/weatherapp",
+        blog : "",
+        tech_stack : "HTML | CSS | JAVASCRIPT | API's",
+        tech_stackicons : [
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`
+            
+        ],
+        project_link : "https://weatherapp-ten-kappa.vercel.app/",
+        project_type : "Individual Project"
+
+    },
+    {
+        name : "CurioCart - E-Commerce Application",
+        about : "A real-time e-commerce simulation showcasing comprehensive product management and robust data operations.",
         img : "./weather.png",
         gitrepo : "https://github.com/db648/weatherapp",
         blog : "",
