@@ -57,7 +57,7 @@ const Projects = [
             `<img src="https://img.icons8.com/color/50/000000/vite.png"/>`
             
         ],
-        project_link : "",
+        project_link : "https://sabbellalaharika.github.io/Hospital_Pre-Booking_Web_Application/",
         project_type : "Team Project",
         isLive : true
 
