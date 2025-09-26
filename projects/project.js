@@ -36,9 +36,9 @@ const Projects = [
         `<img src="https://img.icons8.com/color/48/000000/python.png"/>`,
         `<img src="https://img.icons8.com/color/50/000000/flask.png"/>`,
         ],
-        project_link : "",
+        project_link : "https://drive.google.com/file/d/1r0U7sWl0FC4O0syMeR7q5Oz_iEQvbuVp/view?usp=drive_link",
         project_type : "Team Project",
-        isLive : true
+        isLive : false
     },
     {
         name : "Hospital Pre-Booking Web Application",
@@ -110,7 +110,7 @@ const Projects = [
             `<img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"/>`
             
         ],
-        project_link : "https://drive.google.com/file/d/13aung7ansQ5InBO-U4xgNWtOlE9k7msb/view",
+        project_link : "https://drive.google.com/file/d/13aung7ansQ5InBO-U4xgNWtOlE9k7msb/view?usp=drive_link",
         project_type : "Team Project",
         isLive : false
 
@@ -128,7 +128,7 @@ const Projects = [
             `<img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"/>`
             
         ],
-        project_link : "https://rebrand.ly/041f01",
+        project_link : "https://drive.google.com/file/d/1y0OiTiY9QS2wsApPqpTW8wlDfS1Vs2Qm/view?usp=drive_link",
         project_type : "Team Project",
         isLive : false
 
