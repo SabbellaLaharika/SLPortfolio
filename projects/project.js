@@ -3,7 +3,7 @@ const Projects = [
         name : "AI-Driven Portfolio Creator",
         about : "AI-driven platform for generating diverse digital portfolios, utilizing the artificial intelligence for content curation.",
         img : "https://cdn.prod.website-files.com/622ace2cfb122256cc648db3/67b821885b377dd7fc44fe65_AI%20Portfolio%20Generator.png",
-        gitrepo : "",
+        gitrepo : "https://github.com/SabbellaLaharika/AI-Driven_Portfolio_Creator",
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | MongoDB | Express | Nodejs | Typescript | Vite",
         tech_stackicons : [
@@ -17,7 +17,7 @@ const Projects = [
             `<img src="https://img.icons8.com/color/48/000000/typescript.png"/>`,
             `<img src="https://img.icons8.com/color/50/000000/vite.png"/>`
         ],
-        project_link : "",
+        project_link : "https://portfolio-website-bu-vjpj.bolt.host/",
         project_type : "Team Project",
         isLive : true
     },
@@ -66,16 +66,16 @@ const Projects = [
         name : "Zoom-like App Emotion Detection of Students",
         about : "Video conferencing application with real-time student emotion detection using advanced computer vision and machine learning.",
         img : "https://datamagiclab.com/wp-content/uploads/2023/06/emotion_detection.webp",
-        gitrepo : "",
+        gitrepo : "https://github.com/SabbellaLaharika/Zoom-like_App_With_Emotion_Detection",
         blog : "",
         tech_stack : "Python | Opencv",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/48/000000/python.png"/>`,
             `<img src="https://img.icons8.com/?size=50&id=apebs8fnmi4m&format=png&color=000000"/>`
         ],
-        project_link : "",
+        project_link : "https://drive.google.com/file/d/1i_VaJ2vNtatfaLERCGQO17yig5ckMe81/view?usp=drive_link",
         project_type : "Team Project",
-        isLive : true
+        isLive : false
 
     },
     {
