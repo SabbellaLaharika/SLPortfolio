@@ -79,25 +79,6 @@ const Projects = [
 
     },
     {
-        name : "Smart Stick",
-        about : "Smart Stick for enhancing independence and safety for visually impaired users through real-time obstacle detection, navigation assistance, and environmental awareness.",
-        img : "./images/SmartStick.jpg",
-        gitrepo : "",
-        blog : "",
-        tech_stack : "C | Arduino | Sensors | RF Module | GPS Module | GSM Module | IoT | Accelorometer | Ultrasonic Sensor | Water Sensor",
-        tech_stackicons : [
-            `<img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000" />`,
-            `<img src="https://img.icons8.com/?size=50&id=13444&format=png&color=000000"/>`,
-            `<img src="https://img.icons8.com/?size=50&id=akj7Se2rlCPX&format=png&color=000000"/>`,
-            `<img src="https://img.icons8.com/?size=50&id=OfSWfBwnQR8e&format=png&color=000000"/>`,
-            `<img src="https://img.icons8.com/?size=50&id=uVHiOKL11CSm&format=png&color=000000"/>`
-        ],
-        project_link : "",
-        project_type : "Team Project",
-        isLive : false
-
-    },
-    {
         name : "Data Structures Visualizer & Quiz System",
         about : "An interactive application for visualizing sorting and search algorithms, stacks, queues, linked lists, trees and graphs with animated effects and also included a quiz.",
         img : "./images/DSQ1.png",
