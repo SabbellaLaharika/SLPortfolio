@@ -8,7 +8,7 @@ function SendMSG(e) {
       
   let temp = {
     from_name : nam_txt.value,
-    to_name : "Durga Bhavani",
+    to_name : "Sabbella Laharika",
     message : body
   }
   
@@ -16,7 +16,7 @@ function SendMSG(e) {
     return alert("Please Fill Complete Details!!")
   }
 
-  emailjs.send('service_dgzslkp', 'template_s7cwgdl', temp, "yInfKq3RKqNrQCrdU")
+  emailjs.send('service_dgzslkp', 'template_mew4slo', temp, "RsFpOOT-1XgEt_jxm")
   .then((res) => {
     if(res.status == 200) {
       success()
