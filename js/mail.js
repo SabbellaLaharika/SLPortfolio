@@ -16,7 +16,7 @@ function SendMSG(e) {
     return alert("Please Fill Complete Details!!")
   }
 
-  emailjs.send('service_dgzslkp', 'template_8d69q8y', temp, "RsFpOOT-1XgEt_jxm")
+  emailjs.send('service_xd46v26', 'template_8d69q8y', temp, "RsFpOOT-1XgEt_jxm")
   .then((res) => {
     if(res.status == 200) {
       success()
