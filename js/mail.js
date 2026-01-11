@@ -4,7 +4,7 @@ function SendMSG(e) {
       let email_txt = document.querySelector("#email")
       let subject_txt = document.querySelector("#subject")
       let message_txt = document.querySelector("#message")
-      let body = "Name:" + nam_txt.value + ",  " + "email:" + email_txt.value + ",  " + "subject:" + subject_txt.value +  ",  "+ "Message : " + message_txt.value
+      let body = "Name : " + nam_txt.value + ",  " + "Email : " + email_txt.value + ",  " + "Subject :" + subject_txt.value +  ",  "+ "Message : " + message_txt.value
       
   let temp = {
     from_name : nam_txt.value,
@@ -20,6 +20,7 @@ function SendMSG(e) {
   .then((res) => {
     if(res.status == 200) {
       success()
+      emailjs.send('service_xd46v26', 'template_mew4slo', temp, "RsFpOOT-1XgEt_jxm")  
     }else {
       failure()
     }
